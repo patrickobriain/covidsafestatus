@@ -14,7 +14,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " Ireland/Dublin"
-  logo: https://checkin.covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Red-Icon.png
+  logo: https://covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Red-Icon.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     covidsafeapp.com' href='https://covidsafeapp.com/'>CovidSafe</a> system
     operations.<br />Subscribe to our <a class='text-grey-darkest' href='%s'
@@ -22,7 +22,7 @@ params:
   copyrightHolder: CovidSafe
   eventsPerPage: 10
   iconType: image/png
-  icon: /images/clearstatus.png
+  icon: https://covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Red-Icon.png
   description_footer: "<a class='text-grey-darkest' title='Visit covidsafeapp.com'
     href='https://covidsafeapp.com/'>CovidSafe</a> is a solution for businesses
     in Ireland to record information about their visitors for Covid-19 contact
