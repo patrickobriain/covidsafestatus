@@ -14,7 +14,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " Ireland/Dublin"
-  logo: /images/clearstatus.svg
+  logo: https://checkin.covidsafeapp.com/wp-content/uploads/2021/07/CovidSafe-Red-Icon.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     example.com' href='https://www.example.com/'>example</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
